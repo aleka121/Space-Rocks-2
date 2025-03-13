@@ -1,0 +1,15 @@
+stick_x       = 0;
+stick_y       = 0;
+pos_x         = 0;
+pos_y         = 0;
+device        = -1;
+zone          = "full";
+stick_scale   = 1;
+sprite_back   = -1;
+sprite_top    = -1;
+stick_fill    = 0;
+stick_color   = c_white;
+stick_angle   = 0;
+stick_pos     = 0;
+stick_portait = 0;
+stick_land    = 0;

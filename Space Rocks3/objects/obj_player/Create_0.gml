@@ -1,0 +1,1 @@
+joy = web_stick_create("free", "full");

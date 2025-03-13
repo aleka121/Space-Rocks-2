@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_sticks",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_sticks",
+  "parent":{
+    "name":"controller_web_stick",
+    "path":"folders/controller_web_stick.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
